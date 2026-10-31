@@ -1,0 +1,11 @@
+{
+  "name": "memory-del",
+  "version": "0.1.0",
+  "description": "通过 iPhone Use 在你自己的 iPhone 上清理某个人留下的痕迹：截图、照片、合影、聊天记录、好友，或全部痕迹。先问范围，先列清单，确认后再删。",
+  "author": {
+    "name": "HackingU0"
+  },
+  "homepage": "https://github.com/HackingU0/memory.del",
+  "repository": "https://github.com/HackingU0/memory.del",
+  "keywords": ["iphone", "photos", "wechat", "privacy", "cleanup"]
+}

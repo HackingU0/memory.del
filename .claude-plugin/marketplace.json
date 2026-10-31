@@ -1,0 +1,16 @@
+{
+  "name": "memory-del",
+  "owner": {
+    "name": "HackingU0"
+  },
+  "metadata": {
+    "description": "memory.del：通过 iPhone Use 清理手机里某个人留下的痕迹"
+  },
+  "plugins": [
+    {
+      "name": "memory-del",
+      "source": "./",
+      "description": "通过 iPhone Use 在你自己的 iPhone 上清理某个人留下的痕迹。需要先安装并连接 iPhone Use。"
+    }
+  ]
+}
